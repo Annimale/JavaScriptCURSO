@@ -1,9 +1,16 @@
-html,
-body {
+
+
+body{
     margin: 0;
     background-color: #2f4f30;
     color: #fff
+
 }
+/* body {
+    margin: 0;
+    background-color: #2f4f30;
+    color: #fff
+} */
 
 .titulo {
     text-align: center;
@@ -24,4 +31,3 @@ body {
 #jugador-cartas {
     height: 240px
 }
-;
